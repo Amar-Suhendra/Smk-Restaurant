@@ -1,0 +1,60 @@
+c:\users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\bin\Debug\smk_restaurant.exe
+c:\users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\bin\Debug\smk_restaurant.pdb
+c:\users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\bin\Debug\smk_restaurant.xml
+c:\users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.Form1.resources
+c:\users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.Resources.resources
+c:\users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.vbproj.GenerateResource.Cache
+c:\users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.exe
+c:\users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.xml
+c:\users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.pdb
+C:\Users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.Login.resources
+C:\Users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.admin.resources
+C:\Users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.chef.resources
+C:\Users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.Cashier.resources
+C:\Users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.Form_Change_Password.resources
+C:\Users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.MEmployee.resources
+C:\Users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.MMember.resources
+C:\Users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.MMenu.resources
+C:\Users\amars\documents\visual studio 2010\Projects\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.Vorder.resources
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\bin\Debug\smk_restaurant.exe
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\bin\Debug\smk_restaurant.pdb
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\bin\Debug\smk_restaurant.xml
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.vbprojAssemblyReference.cache
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.admin.resources
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.Cashier.resources
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.chef.resources
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.Form_Change_Password.resources
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.Form1.resources
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.Login.resources
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.MEmployee.resources
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.MMember.resources
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.MMenu.resources
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.Resources.resources
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.Vorder.resources
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.vbproj.GenerateResource.cache
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.vbproj.CoreCompileInputs.cache
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.exe
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.xml
+C:\Users\amars\Documents\smk_restaurant\smk_restaurant\obj\x86\Debug\smk_restaurant.pdb
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\bin\Debug\smk_restaurant.exe
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\bin\Debug\smk_restaurant.pdb
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\bin\Debug\smk_restaurant.xml
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.vbprojAssemblyReference.cache
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.admin.resources
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.Cashier.resources
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.chef.resources
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.Form_Change_Password.resources
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.Form1.resources
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.Login.resources
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.MEmployee.resources
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.MMember.resources
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.MMenu.resources
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.Resources.resources
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.order.resources
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.payment.resources
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.Vorder.resources
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.vbproj.GenerateResource.cache
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.vbproj.CoreCompileInputs.cache
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.exe
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.xml
+C:\Users\amars\Documents\project\smk_restaurant-backup\smk_restaurant\obj\x86\Debug\smk_restaurant.pdb
